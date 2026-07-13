@@ -1,36 +1,30 @@
 # Automobile Management System
 
-A React application to manage automobile details using REST APIs.
-
 ## Features
 
+- Home Page
 - Add Car
 - View Cars
-- React Router Navigation
 - Axios API Integration
+- React Router
 - Bootstrap UI
 
 ## Technologies
 
 - React
 - Vite
-- Bootstrap
 - Axios
 - React Router DOM
+- Bootstrap
 
 ## Installation
 
 ```bash
 npm install
-```
-
-Run the project
-
-```bash
 npm run dev
 ```
 
-## API Endpoints
+## API
 
 ### Add Car
 
@@ -48,13 +42,9 @@ GET
 https://host-demo-app.onrender.com/api/cars
 ```
 
-## Git Workflow
+## Branches
 
-```
-master
-│
-└── development
-      │
-      ├── feature/add-car
-      └── feature/view-cars
-```
+- master
+- development
+- feature/add-car
+- feature/view-cars
